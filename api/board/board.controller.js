@@ -39,6 +39,11 @@ async function addBoard(req, res) {
         const board = req.body;
         const addedBoard = await boardService.add(board)
         res.json(addedBoard)
+        const user = await userService.getById(addedBoard.byUserId)
+        board.byUser = user
+
+        socketService.broadcast({type: 'board-added', data: addedBoard})
+        // socketService.broadcast({type: 'board-added', data: addedBoard, userId: board.byUserId})
 
     } catch (err) {
         console.log(err)
@@ -52,6 +57,7 @@ async function updateBoard(req, res) {
     try {
       const board = req.body;
       const updatedBoard = await boardService.update(board)
+      socketService.broadcast({type: 'board-update', data: board._id})
       res.json(updatedBoard)
     } catch (err) {
       logger.error('Failed to update board', err)

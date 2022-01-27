@@ -2,6 +2,8 @@ const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
 
 var gIo = null
+var gSocketBySessionIdMap = {}
+
 
 function connectSockets(http, session) {
     gIo = require('socket.io')(http, {
@@ -39,7 +41,7 @@ function connectSockets(http, session) {
         socket.on('unset-user-socket', () => {
             delete socket.userId
         })
-
+        socket.on('board-update', boardId => socket.broadcast.emit('board-update', boardId))
     })
 }
 
@@ -59,11 +61,16 @@ async function emitToUser({ type, data, userId }) {
 }
 
 // Send to all sockets BUT not the current socket 
-async function broadcast({ type, data, room = null, userId }) {
+async function broadcast({ type, data, room = null }) {
+    const store = asyncLocalStorage.getStore()
+    const { sessionId } = store
+    if (!sessionId) return logger.debug('Shoudnt happen, no sessionId in asyncLocalStorage store')
+    const excludedSocket = gSocketBySessionIdMap[sessionId]
+
     console.log('BROADCASTING', JSON.stringify(arguments));
-    const excludedSocket = await _getUserSocket(userId)
+    // const excludedSocket = await _getUserSocket(userId)
     if (!excludedSocket) {
-        // logger.debug('Shouldnt happen, socket not found')
+        logger.debug('Shouldnt happen, socket not found')
         // _printSockets();
         return;
     }
@@ -71,6 +78,7 @@ async function broadcast({ type, data, room = null, userId }) {
     if (room) {
         excludedSocket.broadcast.to(room).emit(type, data)
     } else {
+        console.log('emit emit emit');
         excludedSocket.broadcast.emit(type, data)
     }
 }

@@ -197,3 +197,62 @@
 27/01/2022, 18:57:53 - DEBUG - auth.service - login with username: Ofek and Din (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
 27/01/2022, 19:01:43 - DEBUG - auth.service - login with username: guest (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
 27/01/2022, 19:02:54 - DEBUG - auth.service - login with username: Ofek (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 20:02:09 - INFO - Server is running on port: 3030 
+27/01/2022, 20:03:02 - DEBUG - auth.service - login with username: guest (sid: p4x4EpS-W3Ajib-HgPUdDoUf-hbcURw8)
+27/01/2022, 20:19:38 - INFO - Server is running on port: 3030 
+27/01/2022, 21:00:16 - INFO - Server is running on port: 3030 
+27/01/2022, 21:02:01 - INFO - Server is running on port: 3030 
+27/01/2022, 21:12:19 - INFO - Server is running on port: 3030 
+27/01/2022, 21:16:49 - INFO - Server is running on port: 3030 
+27/01/2022, 21:17:47 - INFO - Server is running on port: 3030 
+27/01/2022, 21:17:54 - INFO - Server is running on port: 3030 
+27/01/2022, 21:21:06 - INFO - Server is running on port: 3030 
+27/01/2022, 21:41:42 - INFO - Server is running on port: 3030 
+27/01/2022, 21:42:11 - INFO - Server is running on port: 3030 
+27/01/2022, 21:57:59 - INFO - Server is running on port: 3030 
+27/01/2022, 22:04:42 - DEBUG - auth.service - login with username: guest (sid: 5jvkPfnHrsV19hRQdoyCFtUQuVyFc6gq)
+27/01/2022, 22:04:43 - DEBUG - Setting (gfCQlEZ2nJeh8id1AAAX) socket.userId = 61f2c40f9faf574c74ecac86 
+27/01/2022, 22:13:52 - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: 5jvkPfnHrsV19hRQdoyCFtUQuVyFc6gq)
+27/01/2022, 22:13:52 - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: K_Wf-6HzDPAIlD72Kf7PNlb2C9AsZDol)
+27/01/2022, 22:13:59 - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: 5jvkPfnHrsV19hRQdoyCFtUQuVyFc6gq)
+27/01/2022, 22:29:33 - INFO - Server is running on port: 3030 
+27/01/2022, 22:30:42 - INFO - Server is running on port: 3030 
+27/01/2022, 22:31:01 - INFO - Server is running on port: 3030 
+27/01/2022, 22:31:23 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:31:32 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:31:38 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:31:42 - DEBUG - Shouldnt happen, socket not found (sid: hLm1C4mKF7lUEvZDkc_Sg4P57GA4N6Bv)
+27/01/2022, 22:31:47 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:31:55 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:32:09 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:08 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:11 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:12 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:14 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:15 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:33:20 - DEBUG - Shouldnt happen, socket not found (sid: Lsl1NUuEKn35iJtTpyaeNvA7NBRC7uPn)
+27/01/2022, 22:34:07 - INFO - Server is running on port: 3030 
+27/01/2022, 22:34:11 - DEBUG - Shouldnt happen, socket not found (sid: hMJw4xwAtCWMpTEQzXCq-wFvE8rk8f9l)
+27/01/2022, 22:34:59 - INFO - Server is running on port: 3030 
+27/01/2022, 22:35:03 - DEBUG - Shouldnt happen, socket not found (sid: G1UMxSVrGqK7q60pE2gXxqfHroKT5BgU)
+27/01/2022, 22:35:23 - INFO - Server is running on port: 3030 
+27/01/2022, 22:35:26 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:35:54 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:36:02 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:36:05 - DEBUG - Shouldnt happen, socket not found (sid: UgbDOoysXlf6yxMXsm9E8aqZ_z5ukTLS)
+27/01/2022, 22:36:06 - DEBUG - Shouldnt happen, socket not found (sid: UgbDOoysXlf6yxMXsm9E8aqZ_z5ukTLS)
+27/01/2022, 22:36:46 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:16 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:20 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:34 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:36 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:37 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:38 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:39 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:40 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:41 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:42 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:37:43 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:38:37 - DEBUG - Shouldnt happen, socket not found (sid: UgbDOoysXlf6yxMXsm9E8aqZ_z5ukTLS)
+27/01/2022, 22:39:22 - DEBUG - Shouldnt happen, socket not found (sid: nghVJX5heAM7ocqMKOGIukLlZ-5C0F7E)
+27/01/2022, 22:49:02 - DEBUG - Shouldnt happen, socket not found (sid: UgbDOoysXlf6yxMXsm9E8aqZ_z5ukTLS)
