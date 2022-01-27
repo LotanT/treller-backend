@@ -1,5 +1,7 @@
 const authService = require('./auth.service')
 const logger = require('../../services/logger.service')
+const dbService = require('../../services/db.service')
+
 
 async function login(req, res) {
     const { username, password } = req.body
@@ -15,11 +17,16 @@ async function login(req, res) {
 
 async function signup(req, res) {
     try {
-        const { username, password, fullname } = req.body
+        const { username, password, fullname, avatar = null } = req.body
+
         // Never log passwords
         // logger.debug(fullname + ', ' + username + ', ' + password)
-        const account = await authService.signup(username, password, fullname)
-        logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
+        const collection = await dbService.getCollection('user')
+        const userCheckExist = await collection.findOne({ username })
+        if (!userCheckExist || (userCheckExist.username !== username && userCheckExist.fullname !== fullname)) {
+            const account = await authService.signup(username, password, fullname, avatar)
+            logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
+        }
         const user = await authService.login(username, password)
         req.session.user = user
         res.json(user)
@@ -29,7 +36,7 @@ async function signup(req, res) {
     }
 }
 
-async function logout(req, res){
+async function logout(req, res) {
     try {
         // req.session.destroy()
         req.session.user = null;
