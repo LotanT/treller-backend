@@ -37,4 +37,163 @@
 26/01/2022, 17:41:31 - INFO - Server is running on port: 3030 
 26/01/2022, 18:31:34 - INFO - Server is running on port: 3030 
 26/01/2022, 18:32:10 - INFO - Server is running on port: 3030 
-26.1.2022, 18:54:07 - INFO - Server is running on port: 3030 
+26/01/2022, 18:50:49 - INFO - Server is running on port: 3030 
+26/01/2022, 21:34:01 - INFO - Server is running on port: 3030 
+27/01/2022, 10:05:09 - INFO - Server is running on port: 3030 
+27/01/2022, 10:05:38 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: AQS6lgchNizNQX0g1YzLBQEJuSElcoe3)
+27/01/2022, 10:05:54 - INFO - Server is running on port: 3030 
+27/01/2022, 10:05:58 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: Sn7aMZaA7WEYgmsJSe6Dqfc8ZsFlxrKB)
+27/01/2022, 10:07:13 - INFO - Server is running on port: 3030 
+27/01/2022, 10:07:30 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: eexPBXsPdbfzlOLo_Ikk76Xm8pJB8ngH)
+27/01/2022, 10:08:40 - INFO - Server is running on port: 3030 
+27/01/2022, 10:08:47 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: MGK27BkxBNVJfUgwYQYpmiJtxFA346kx)
+27/01/2022, 10:10:00 - INFO - Server is running on port: 3030 
+27/01/2022, 10:10:06 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: XOU_DcMkZjcQHi2LQ1aBaXAF8I2ecL9T)
+27/01/2022, 10:10:31 - INFO - Server is running on port: 3030 
+27/01/2022, 10:10:40 - ERROR - Cannot get boards | ReferenceError: logger is not defined (sid: hZlEK3w6Pzf7613h2wYOQWj-PZdGfgDJ)
+27/01/2022, 10:13:56 - INFO - Server is running on port: 3030 
+27/01/2022, 10:14:26 - INFO - Server is running on port: 3030 
+27/01/2022, 10:15:05 - INFO - Server is running on port: 3030 
+27/01/2022, 11:44:48 - DEBUG - auth.service - signup with username: sfdsdf, fullname: afsdfsd (sid: bn7mPd2lJApzM2kXpzfKNeO4pbI2WGl9)
+27/01/2022, 11:44:49 - DEBUG - auth.route - new account created: {"username":"sfdsdf","password":"$2b$10$dpwXXypoJEyZSM6uramd4u4W/XrxAwXlT341anS3Dr1yhuyRRoU5u","fullname":"afsdfsd","score":100,"_id":"61f269913d6bd054e0ed8856"} (sid: bn7mPd2lJApzM2kXpzfKNeO4pbI2WGl9)
+27/01/2022, 11:44:49 - DEBUG - auth.service - login with username: sfdsdf (sid: bn7mPd2lJApzM2kXpzfKNeO4pbI2WGl9)
+27/01/2022, 11:49:46 - DEBUG - auth.service - login with username: Ofek and Din (sid: bn7mPd2lJApzM2kXpzfKNeO4pbI2WGl9)
+27/01/2022, 11:49:46 - ERROR - Failed to Login Invalid username or password (sid: bn7mPd2lJApzM2kXpzfKNeO4pbI2WGl9)
+27/01/2022, 13:53:43 - INFO - Server is running on port: 3030 
+27/01/2022, 13:54:03 - ERROR - Failed to Login ReferenceError: username is not defined (sid: 2_cDM_9hV40gQkdbEOS3EUAf4IyjcWZU)
+27/01/2022, 13:54:29 - INFO - Server is running on port: 3030 
+27/01/2022, 13:54:39 - DEBUG - auth.service - login with username: Ofek (sid: lkMXVHFG0vtNkYDgcsJ6sv0NOyV3rZEu)
+27/01/2022, 13:54:40 - ERROR - Failed to Login Invalid username or password (sid: lkMXVHFG0vtNkYDgcsJ6sv0NOyV3rZEu)
+27/01/2022, 13:55:18 - INFO - Server is running on port: 3030 
+27/01/2022, 13:55:25 - DEBUG - auth.service - login with username: Ofek (sid: CtPstSSsgzt7A8Hcrqwg0RfvekygdN3I)
+27/01/2022, 13:56:55 - INFO - Server is running on port: 3030 
+27/01/2022, 13:57:08 - DEBUG - auth.service - login with username: Ofek (sid: OiBNZguIAph1yG6sIu5IvoyMHS9jQqvk)
+27/01/2022, 13:57:28 - DEBUG - auth.service - login with username: Ofek and Din (sid: tPItg-BZv7EfbSLJcN_8kdAGAPV6FU4b)
+27/01/2022, 14:00:39 - DEBUG - auth.service - login with username: Ofek (sid: tPItg-BZv7EfbSLJcN_8kdAGAPV6FU4b)
+27/01/2022, 14:03:16 - INFO - Server is running on port: 3030 
+27/01/2022, 14:03:37 - DEBUG - auth.service - login with username: Ofek (sid: URQiDUahFb2euR7PvcpcHLbG14lG2v4w)
+27/01/2022, 14:04:25 - DEBUG - auth.service - login with username: Ofek (sid: URQiDUahFb2euR7PvcpcHLbG14lG2v4w)
+27/01/2022, 14:05:47 - DEBUG - auth.service - login with username: Ofek (sid: URQiDUahFb2euR7PvcpcHLbG14lG2v4w)
+27/01/2022, 14:07:01 - INFO - Server is running on port: 3030 
+27/01/2022, 14:07:30 - DEBUG - auth.service - login with username: Ofek (sid: A-zUdOkDK-vdPfoSBZWbhJidJ6qHVdU9)
+27/01/2022, 14:08:46 - DEBUG - auth.service - login with username: Ofek (sid: A-zUdOkDK-vdPfoSBZWbhJidJ6qHVdU9)
+27/01/2022, 14:08:46 - ERROR - Failed to Login TypeError: Assignment to constant variable. (sid: A-zUdOkDK-vdPfoSBZWbhJidJ6qHVdU9)
+27/01/2022, 14:10:30 - INFO - Server is running on port: 3030 
+27/01/2022, 14:11:13 - INFO - Server is running on port: 3030 
+27/01/2022, 14:11:20 - DEBUG - auth.service - login with username: Ofek (sid: fWdxF4jfiEMvZrx6pAkcEMqM3yBhMLAA)
+27/01/2022, 14:13:50 - INFO - Server is running on port: 3030 
+27/01/2022, 14:13:57 - DEBUG - auth.service - login with username: Ofek (sid: _-mNfpti3pODzSQG68Sq7vjEMXShItGr)
+27/01/2022, 14:42:13 - INFO - Server is running on port: 3030 
+27/01/2022, 16:16:57 - DEBUG - auth.service - signup with username: demo, fullname: Demo (sid: 2blx1zWv62t2ZXjDNZjhCjMXYK4sg10q)
+27/01/2022, 16:16:57 - DEBUG - auth.route - new account created: {"username":"demo","password":"$2b$10$6G/cvWVMQo.FGK.ughzDieqgoBh/bI9y/fppviB6c1ywfpZn2QCFq","fullname":"Demo","_id":"61f2a9590f036057d8b6993a"} (sid: 2blx1zWv62t2ZXjDNZjhCjMXYK4sg10q)
+27/01/2022, 16:16:57 - DEBUG - auth.service - login with username: demo (sid: 2blx1zWv62t2ZXjDNZjhCjMXYK4sg10q)
+27/01/2022, 16:18:49 - INFO - Server is running on port: 3030 
+27/01/2022, 16:19:04 - INFO - Server is running on port: 3030 
+27/01/2022, 16:20:48 - INFO - Server is running on port: 3030 
+27/01/2022, 16:21:16 - DEBUG - auth.service - signup with username: demo2, fullname: demo 2 (sid: Y08u6ATxZYcl-L6LA8L4Ish9PrxSBH1V)
+27/01/2022, 16:21:17 - DEBUG - auth.route - new account created: {"username":"demo2","password":"$2b$10$umeGTZC3uZgti5HajTaMI.6nw5j2l6dI9GLuxwiBrT2qs/dl72A3K","fullname":"demo 2","score":100,"_id":"61f2aa5dbf246b100c1517a4"} (sid: Y08u6ATxZYcl-L6LA8L4Ish9PrxSBH1V)
+27/01/2022, 16:21:17 - DEBUG - auth.service - login with username: demo2 (sid: Y08u6ATxZYcl-L6LA8L4Ish9PrxSBH1V)
+27/01/2022, 16:24:38 - DEBUG - auth.service - login with username: demo2 (sid: Y08u6ATxZYcl-L6LA8L4Ish9PrxSBH1V)
+27/01/2022, 16:26:40 - INFO - Server is running on port: 3030 
+27/01/2022, 16:30:48 - DEBUG - auth.service - signup with username: demo2, fullname: demo2 (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:30:49 - DEBUG - auth.route - new account created: {"username":"demo2","password":"$2b$10$ZOMosDU/sXSF/artHbyDJeyLoHS0LmjSMJXHGOIOegSfDxkoSEC0u","fullname":"demo2","_id":"61f2ac992f029c179068d912"} (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:30:49 - DEBUG - auth.service - login with username: demo2 (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:32:54 - DEBUG - auth.service - login with username: Ofek and Din (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:32:54 - ERROR - Failed to Login Invalid username or password (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:34:04 - DEBUG - auth.service - signup with username: Ofek and Din, fullname: Ofek and Din Bnd (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:34:04 - DEBUG - auth.route - new account created: {"username":"Ofek and Din","password":"$2b$10$8e5OBEb4HWswc3Q2TpjKk.dF8DIS2kO6ipA3SQCUPVZp/gHyAFp5W","fullname":"Ofek and Din Bnd","_id":"61f2ad5c2f029c179068d913"} (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:34:04 - DEBUG - auth.service - login with username: Ofek and Din (sid: b_0U4v9VuMju2NDWTUFsENGGoKCWfve5)
+27/01/2022, 16:41:04 - INFO - Server is running on port: 3030 
+27/01/2022, 16:41:25 - ERROR - Failed to signup ReferenceError: collection is not defined (sid: 3Lema7d9z06Nlpihh1uEO9UmDUnMI-YQ)
+27/01/2022, 17:04:58 - INFO - Server is running on port: 3030 
+27/01/2022, 17:05:24 - DEBUG - auth.service - login with username: demo2 (sid: ua38ANZG0HqH0A04BKdkOFNQ-l2MbtFw)
+27/01/2022, 17:05:26 - ERROR - Failed to Login Invalid username or password (sid: ua38ANZG0HqH0A04BKdkOFNQ-l2MbtFw)
+27/01/2022, 17:06:17 - ERROR - Failed to signup ReferenceError: dbService is not defined (sid: ua38ANZG0HqH0A04BKdkOFNQ-l2MbtFw)
+27/01/2022, 17:07:01 - INFO - Server is running on port: 3030 
+27/01/2022, 17:07:17 - DEBUG - auth.service - signup with username: demo, fullname: demo (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:07:18 - DEBUG - auth.route - new account created: {"username":"demo","password":"$2b$10$pepSFJDKoCaXJCPm4PgQ6uibcQ/jjRSU9hW1p8JSpP5YNxBiAYGdW","fullname":"demo","_id":"61f2b525f938144e109cf0bb"} (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:07:18 - DEBUG - auth.service - login with username: demo (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:07:45 - DEBUG - auth.service - login with username: demo (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:08:44 - DEBUG - auth.service - login with username: Ofek and Din (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:09:43 - DEBUG - auth.service - login with username: Ofek and Din (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:10:13 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:10:13 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$YXNqPKFQo/FvZHD7KNMJ0u/ef10MFDIjfEF4pX1jT08c7v791ZQAW","fullname":"Ofek Ben Baruch","_id":"61f2b5d5f938144e109cf0bc"} (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:10:13 - DEBUG - auth.service - login with username: Ofek (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:10:32 - DEBUG - auth.service - login with username: Ofek (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:16:39 - DEBUG - auth.service - login with username: Ofek (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:17:40 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:17:40 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$T6acQ5V88AHCkXVN.YmULuEEAR1hQWHPTUFI896tvSHndiJ4wyTp6","fullname":"Ofek Ben Baruch","_id":"61f2b794f938144e109cf0bd"} (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:17:40 - DEBUG - auth.service - login with username: Ofek (sid: suVVq8BuaTvO2CWmMoXts485aoxAj3jd)
+27/01/2022, 17:20:37 - INFO - Server is running on port: 3030 
+27/01/2022, 17:20:55 - INFO - Server is running on port: 3030 
+27/01/2022, 17:21:01 - INFO - Server is running on port: 3030 
+27/01/2022, 17:21:11 - DEBUG - auth.service - signup with username: Ofek and Din, fullname: Ofek and Din Bnd (sid: m0ugDUbPVsZin7CYt8xSm0KKINAo3bIP)
+27/01/2022, 17:21:11 - DEBUG - auth.route - new account created: {"username":"Ofek and Din","password":"$2b$10$YMQHvfzHb/LYaNVsO7HOA.nrf6lozFyWspt16QygfTZLE7r41DCRu","fullname":"Ofek and Din Bnd","googleId":"115381471852459718795","_id":"61f2b867759c815dec40e2b7"} (sid: m0ugDUbPVsZin7CYt8xSm0KKINAo3bIP)
+27/01/2022, 17:21:11 - DEBUG - auth.service - login with username: Ofek and Din (sid: m0ugDUbPVsZin7CYt8xSm0KKINAo3bIP)
+27/01/2022, 17:21:24 - DEBUG - auth.service - signup with username: sdf, fullname: afdsf (sid: ounCYf60klOJEazOv09FlXr9Ld6gIbVi)
+27/01/2022, 17:21:24 - DEBUG - auth.route - new account created: {"username":"sdf","password":"$2b$10$UA4lTZQSkJw/9m6EF9tnmuqD4i91z0bUKazTEAv6W3y8cM4/JC59W","fullname":"afdsf","googleId":null,"_id":"61f2b874759c815dec40e2b8"} (sid: ounCYf60klOJEazOv09FlXr9Ld6gIbVi)
+27/01/2022, 17:21:24 - DEBUG - auth.service - login with username: sdf (sid: ounCYf60klOJEazOv09FlXr9Ld6gIbVi)
+27/01/2022, 17:21:46 - INFO - Server is running on port: 3030 
+27/01/2022, 17:35:51 - DEBUG - auth.service - signup with username: Guest, fullname: Guest (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:35:51 - DEBUG - auth.route - new account created: {"username":"Guest","password":"$2b$10$ojFPuxdRMWZEBZG8yMpmpeiqHxN2TvkHr.TgJ.gpQ2Ay9SVIE4rdO","fullname":"Guest","googleId":null,"_id":"61f2bbd790caa936145bec1c"} (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:35:51 - DEBUG - auth.service - login with username: Guest (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:38:42 - DEBUG - auth.service - login with username: Guest (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:39:05 - DEBUG - auth.service - login with username: Ofek (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:39:12 - DEBUG - auth.service - login with username: Guest (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:50:07 - DEBUG - auth.service - login with username: Ofek (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:50:37 - DEBUG - auth.service - login with username: Ofek (sid: CgdnvAdLWgkieQNxyPqQp-d7ROM4ndjW)
+27/01/2022, 17:56:12 - INFO - Server is running on port: 3030 
+27/01/2022, 17:56:18 - INFO - Server is running on port: 3030 
+27/01/2022, 17:56:20 - INFO - Server is running on port: 3030 
+27/01/2022, 17:57:02 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: UAZTlHvprdTLOsEL1eIt1ts-tNvlHCWu)
+27/01/2022, 17:57:02 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$on466rpH8W/AtqTeHYr9IOZqGug4YyfQbxH71LIU1JgDME8x6A2Yq","fullname":"Ofek Ben Baruch","googleAvatar":"https://lh3.googleusercontent.com/a/AATXAJwxlDs6qhNkJ_JH0_NyiNjf_CNWYpdDdnkhZaGPWQ=s96-c","_id":"61f2c0ce27aeba5494968fb0"} (sid: UAZTlHvprdTLOsEL1eIt1ts-tNvlHCWu)
+27/01/2022, 17:57:02 - DEBUG - auth.service - login with username: Ofek (sid: UAZTlHvprdTLOsEL1eIt1ts-tNvlHCWu)
+27/01/2022, 18:01:39 - INFO - Server is running on port: 3030 
+27/01/2022, 18:01:53 - INFO - Server is running on port: 3030 
+27/01/2022, 18:02:00 - INFO - Server is running on port: 3030 
+27/01/2022, 18:02:43 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:02:44 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$92VXM4HRJy9x8RNhp6RYpuiJUOBLSkY94Ab1mu8eQdjpDLsQ3V30S","fullname":"Ofek Ben Baruch","avatar":"https://lh3.googleusercontent.com/a/AATXAJwxlDs6qhNkJ_JH0_NyiNjf_CNWYpdDdnkhZaGPWQ=s96-c","_id":"61f2c2249faf574c74ecac81"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:02:44 - DEBUG - auth.service - login with username: Ofek (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:03:32 - DEBUG - auth.service - signup with username: guest, fullname: Mr Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:03:32 - DEBUG - auth.route - new account created: {"username":"guest","password":"$2b$10$KVw0ewYtbxgYICb8jUyQR.JljIJaoLAar1gBWFURSvQSmtiEmIUjO","fullname":"Mr Guest","avatar":{},"_id":"61f2c2549faf574c74ecac82"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:03:32 - DEBUG - auth.service - login with username: guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:07 - DEBUG - auth.service - signup with username: sad, fullname: sad asd (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:08 - DEBUG - auth.route - new account created: {"username":"sad","password":"$2b$10$fwadHP0WW.IOioP.hm82EecvzGgIkMy4h.xsGqYJ98rHe9F/i4p6C","fullname":"sad asd","avatar":{},"_id":"61f2c2b39faf574c74ecac83"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:08 - DEBUG - auth.service - login with username: sad (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:38 - DEBUG - auth.service - signup with username: sf, fullname: asdf dsaf (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:38 - DEBUG - auth.route - new account created: {"username":"sf","password":"$2b$10$7cCI3aJEQnI/80oMmGBPWOI50.hsoo0kkbMxVK.fW7ULBA1cJQN/O","fullname":"asdf dsaf","avatar":"�PNG\r\n\u001a\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0000@\u0000\u0000\u0000@\b\u0006\u0000\u0000\u0000�iq�\u0000\u0000\u0000\tpHYs\u0000\u0000\u000e�\u0000\u0000\u000e�\u0001�+\u000e\u001b\u0000\u0000\u0007]IDATx��]HT�\u001a��5Mi\u001aZ��\n�S��l \u0014�\u000b��$��\u0012vt\u0011ۋ.N?\u0010ņ\"� \n��f_\u0014�>��>���M\u0017��`� Y�HP&�͐ 2\u0012�O\u000e��\\��=:���\u0019ǟ����Y����}�[����\u0012I@\b��(J�$I��^�\u0007 o^� \u0010\u0000>\u0001~��,�.vۤ�\u0012���_\r�H�TK��f\t\u0002�@\u0003�*��x�ڧ�P\u0003\b!�\u0014E9/I�\u0019�9�L\u0002�\u0003�ʲ��D\tM�\u0001�\u0010��M�6\u0011�L�\u0001�\"��s��\u001c\u0019@\b�\u000f�\u001ep�iCl�\u0001�,��\u001fv\u0005�6�\u0010�\u001c�\u000b�fWF\u0002y\u0000ܳ�#,\u001b@\b�\r�\u0006\u001c�Zw��\u0003?ʲ�k��%\u0003h�z\u0003���b3\t�Y�\r�\r �8\b4�<�|<�˲�/3\u0005M\u0019`�)�c�\bq\r�B�׉k��\u0006�����2�ש�e��\u000b�\\�\u0000���b�:<�L\u0002�\u0016�+�bT����<���A\b�!�ͨ\u0006�&9�m�wB\u001e�-��W@��������(�R����\u001c�[�\u001ep�U�<�$I\u0011�`�\u00014��T\u000b�dP���\u0006�{��$6f����a\u0000!D\u0011�[�/%yB���/�\u0001\u0014E9�4�Y\u0012\f]\r\u0003h�X\u0017*��\u000e7\u0018\u001b����}���ӧ�������\u001c?~<n�ϟ?s��٨��n7���dee��x(++����i3u�\u0000��\u001eP�\b����LMM\u0001���\u001c�t|fff\u0018\u0019\u0019�����ϟs��\r.\\�@ww�c�h:�\u0001��k�466\u0002���B__\u001f\u0003\u0003\u0003�ܹ�t�;w���x��������y��-]]]\b!�v�\u001a�.]2��bP!��vi�\u001e�s�O�>���G6n�HUU\u0015\u0000MMM�dlذ���\f�e�\u0016\n\n\n8y�$��ߧ����[�2;;ˣG�x����6+�R�R\u0014�đ\u0014\r��/++���\u0002\u0000�����t\"�\u0003�k�.\u001e?~Lvv6�����C&&&l˓$�ĥ\u001dW9bzz\u001a��\u000b��C�(..&++���1:::���CFF\u0006W�^\u0005`bb�\u0017/^8\u0011�ׅzV爎�\u000e���شi\u0013eee\u0000\u001c=z\u0014H�3�Oqq1���\u0000���9\u0011U�\"\u0001ß��+++q�ԁE�\u0003�߿ghh��#\"8p�\u0000\u0000�@���Q�b~p��\u0001\u000e\r\r���\u0007\u0000��������(((@Q�E�\u0005�w�6�\u0003��]1y�v�L��؈�(�ٳ������{AKK���D���i\\���ٖ��\u0000����|�\u0012����\u001c9r��k�\u0012\f\u0006��|N\u001e\u0015�����P(d[�#\u0003tuu\u0011\f\u0006III����\u0011����)//\u0007\u0012�\f���:\u0006LOO�-Ǎ\u001a�`\u000b���B!N�8\u0011�lgg'���s��\u0013FFF�k\u00072�.԰\u0014�|��7oޘ.?33c�.����\u0007P\u0017L;v�+&�F�ɱLkk+���l۶��w��,���3�^/MMM�:u�������w:;;\u0001u4X�n�]Q\u00017걲e�y~UU\u0015۷o�Y���\u0016��K \u0010������\";�4hiiaxx\u0018��|-�w\u0001�����fpp\u0010I��\u0019_,\n\u000b\u000b�!��\u0002i>\u0003\u0003\u0003���\u0003���ñc��/�\\Z(�%G�;�}�����c��>'x�ꕱg`���6�\\�B(\u0014��vs��-֬YcK��;�vъ�����\tc��+e���J�>}���\u0014�����D��������W@u����\f\u000f\u000f���C{{;���\u0000���q��u\n\u000b\u001d����,��\u001b�\u0001�\u0006hkk#\u0014\n���j,{Ͱy�fJKK��|477G5��۷��ٿ?\u0017/^$77���\u0017�w�v�P{�$&N��\t���\u0007IMM�����j|>\u001f���\u0004\u0002���s8�$���FFF\u0006���x<\u001e����:\\\u000b4@�٠\u0010�?��S�p��,S�_��1K���a\u0000-�4��7˓ �D�21\u0014�\f}��$<�r�\u0001�����\u000b����\u0006і�?'�-K����\u0011\u0006Ђ�\u001e$�Iɣ5Z��B\u001b\"���HZ�L\u0012v\"\u001cNT\u0003h��G��j�n���\u0005�Ĵ���jQ\u0012y\u0010+x�L��9V�$�,���U�l��J4B\\��Z��J2�)��¶�6�Ա�\u001d�\u0003�ʃ����5b9[\u0004l\u001c�h\u0013���-(�\u0001��^;it���������S�1\u00066\t�NoM��D#Q���P#0��Z�KZ[�r�$:u�'�)���Bk�QG�'N\u0015�Y��i-\b�\fj(�Sc�Q70\u001b�d�.Ģe�넥Η�:�Bb��\u0007P��\"\t)��\u0007�<w�n�>\u0015\u0000\u0000\u0000\u0000IEND�B`�","_id":"61f2c2d29faf574c74ecac84"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:05:38 - DEBUG - auth.service - login with username: sf (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:23 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:23 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$SJ4ZbTEKpWX6Uz2qm.gt6eQurb0TjLIBiDed3OskmUxIAyS0D2aym","fullname":"Ofek Ben Baruch","avatar":"https://lh3.googleusercontent.com/a/AATXAJwxlDs6qhNkJ_JH0_NyiNjf_CNWYpdDdnkhZaGPWQ=s96-c","_id":"61f2c3ef9faf574c74ecac85"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:23 - DEBUG - auth.service - login with username: Ofek (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:34 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:34 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:55 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:55 - DEBUG - auth.service - signup with username: guest, fullname: Mr Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:55 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:55 - DEBUG - auth.route - new account created: {"username":"guest","password":"$2b$10$TuPrlRV/W8RbpxNo/izEQuItV0dEsSUZc/3xh7UD52.kOEZXvX7yC","fullname":"Mr Guest","avatar":"https://ui-avatars.com/api/?name=Mr Guest&&rounded=true","_id":"61f2c40f9faf574c74ecac86"} (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:10:55 - DEBUG - auth.service - login with username: guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:11:09 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:11:09 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:11:10 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:11:10 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:12:15 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:12:15 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:12:18 - DEBUG - auth.service - login with username: Guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:12:18 - ERROR - Failed to Login Invalid username or password (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:13:21 - DEBUG - auth.service - login with username: guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:16:11 - DEBUG - auth.service - login with username: Ofek (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:17:06 - DEBUG - auth.service - login with username: guest (sid: v_sRl6sfr_4nb55NDD5TmdtBc10hsoeG)
+27/01/2022, 18:24:21 - INFO - Server is running on port: 3030 
+27/01/2022, 18:24:41 - DEBUG - auth.service - login with username: guest (sid: 4jgFbbstRru4mtWv49nCHNYXAyX7BtUL)
+27/01/2022, 18:28:23 - DEBUG - auth.service - signup with username: Ofek, fullname: Ofek Ben Baruch (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:28:23 - DEBUG - auth.route - new account created: {"username":"Ofek","password":"$2b$10$zmyRnToR3hikn/ZGUNhrLug1MPvbuZo8DDKwCyoEkf.yOrhAaCHLG","fullname":"Ofek Ben Baruch","avatar":"https://lh3.googleusercontent.com/a-/AOh14Gh4qhE4sWzdiYuj5jkvMM9uWzrm3YH0HBpaNwPlxuo=s96-c","_id":"61f2c82726578e5690f31ba5"} (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:28:23 - DEBUG - auth.service - login with username: Ofek (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:55:53 - DEBUG - auth.service - login with username: guest (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:57:26 - DEBUG - auth.service - login with username: Ofek (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:57:52 - DEBUG - auth.service - login with username: guest (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:57:53 - DEBUG - auth.service - signup with username: Ofek and Din, fullname: Ofek and Din Bnd (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:57:53 - DEBUG - auth.route - new account created: {"username":"Ofek and Din","password":"$2b$10$go4CGaQoMQbQFa7fEjWegOIg7jZfz0hqPy.BOIBJu1hOK8zbcN3Li","fullname":"Ofek and Din Bnd","avatar":"https://lh3.googleusercontent.com/a/AATXAJypqk4MSaumDMLuWTU9m9MAZ3fr9XDNh1Z1aR80=s96-c","_id":"61f2cf1126578e5690f31ba6"} (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 18:57:53 - DEBUG - auth.service - login with username: Ofek and Din (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 19:01:43 - DEBUG - auth.service - login with username: guest (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
+27/01/2022, 19:02:54 - DEBUG - auth.service - login with username: Ofek (sid: qp2JC6hMS4U_cJ4wdGqxI8enxfIMfghb)
