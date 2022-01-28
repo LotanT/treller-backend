@@ -12,9 +12,12 @@ function connectSockets(http, session) {
         }
     })
     gIo.on('connection', socket => {
+        gSocketBySessionIdMap[socket.handshake.sessionID] = socket
         console.log('New socket', socket.id)
         socket.on('disconnect', socket => {
             console.log('Someone disconnected')
+            if (socket.handshake) gSocketBySessionIdMap[socket.handshake.sessionID] = null
+
         })
         socket.on('chat topic', topic => {
             if (socket.myTopic === topic) return;
