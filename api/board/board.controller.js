@@ -20,6 +20,7 @@ async function getBoardById(req, res) {
     try {
       const boardId = req.params.id;
       const board = await boardService.getById(boardId)
+      
       res.json(board)
     } catch (err) {
       logger.error('Failed to get board', err)
@@ -42,7 +43,7 @@ async function addBoard(req, res) {
         const user = await userService.getById(addedBoard.byUserId)
         board.byUser = user
 
-        socketService.broadcast({type: 'board-added', data: addedBoard})
+        // socketService.broadcast({type: 'board-added', data: addedBoard})
         // socketService.broadcast({type: 'board-added', data: addedBoard, userId: board.byUserId})
 
     } catch (err) {
