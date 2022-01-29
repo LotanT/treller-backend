@@ -663,3 +663,7 @@
 29/01/2022, 21:42:01 - DEBUG - Shouldnt happen, socket not found (sid: 0nqLz8iSLCm4_GaKMDzjqSw8hfn350Jx)
 29/01/2022, 21:42:04 - DEBUG - Shouldnt happen, socket not found (sid: 0nqLz8iSLCm4_GaKMDzjqSw8hfn350Jx)
 29/01/2022, 21:42:07 - DEBUG - Shouldnt happen, socket not found (sid: 0nqLz8iSLCm4_GaKMDzjqSw8hfn350Jx)
+29/01/2022, 22:02:34 - INFO - Server is running on port: 3030 
+29/01/2022, 22:02:41 - DEBUG - auth.service - login with username: guest (sid: VaUcl5MOk9RmAlCEWFE7ydrvFGwBfrty)
+29/01/2022, 22:02:43 - DEBUG - Setting (abF2q4pnmSPoLFjRAAAB) socket.userId = 61f2c40f9faf574c74ecac86 
+29/01/2022, 22:03:08 - DEBUG - Shouldnt happen, socket not found (sid: A_0seMG3xeNkkowwxi6LR2Z8M8suEE6P)
